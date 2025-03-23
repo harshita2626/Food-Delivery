@@ -1,12 +1,22 @@
-# React + Vite
+Welcome to the Food Delivery Frontend repository! This project is a responsive and user-friendly frontend for a food delivery application built using React.js. It includes features like browsing restaurants, viewing menus, adding items to the cart, and placing orders. This README provides a detailed guide to help you set up, run, and contribute to the project.
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+#FEATURES
+Menu Display: View detailed menus for each restaurant.
 
-Currently, two official plugins are available:
+Cart Management: Add/remove items, update quantities, and view the total price.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+Responsive Design: Works seamlessly on desktop, tablet, and mobile devices.
 
-## Expanding the ESLint configuration
+Order Placement: Place orders with ease.
 
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+#TECHNOLOGIES USED
+React.js: Frontend library for building user interfaces.
+
+React Router: For handling navigation and routing.
+
+CSS Modules/Styled Components: For styling components.
+
+ESLint/Prettier: For code linting and formatting.
+
+#DEMO
+Check out the live demo of the project: https://harshita2626.github.io/Food-Delivery/
